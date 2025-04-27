@@ -32,6 +32,7 @@ https://yangxiaoge.github.io/yingshi
 依赖的项目:
 > update at 2025-04-24 20:30:37 UTC+0
 - [FongMi/TV/release](https://github.com/FongMi/TV) (Updated: a5aac3ed7be1b977ac59602fa9c53c7e51127319)
+- [ze32/fm-tv/v3.6.7](https://github.com/ze32/fm-tv) (Updated: temac3ed7be1b977ac59602fa9c53c7e51127319)
 - [q215613905/TVBoxOS/main](https://github.com/q215613905/TVBoxOS) (Updated: 9d38d66185622a2a406b248fdefbed02a7e5d06b)
 
 **2. 自定义爬虫**
