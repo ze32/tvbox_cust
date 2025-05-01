@@ -25,14 +25,19 @@ https://yangxiaoge.github.io/yingshi
 # 进阶玩法
 # TVBox编译 脚本来自 [o0HalfLife0o](https://github.com/o0HalfLife0o/TVBoxOSC) [zyqfork](https://github.com/zyqfork/TVBoxOSC) 
 ![Build](https://shields.io/github/actions/workflow/status/yangxiaoge/tvbox_cust/tvbox_app_action.yml?branch=master&logo=github&label=Build)
-[![Download](https://img.shields.io/github/v/release/yangxiaoge/tvbox_cust?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/yangxiaoge/tvbox_cust/releases/latest) 
-[![Total](https://shields.io/github/downloads/yangxiaoge/tvbox_cust/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/yangxiaoge/tvbox_cust/releases)
+[![Download](https://img.shields.io/github/v/release/ze32/tvbox_cust?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/ze32/tvbox_cust/releases/latest) 
+[![Total](https://shields.io/github/downloads/ze32/tvbox_cust/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/ze32/tvbox_cust/releases)
 
 **1. 三方TVBox编译（墙裂推荐[FongMi影视](https://github.com/FongMi/Release/tree/fongmi/apk/release)）**
 依赖的项目:
-> update at 2025-04-24 20:30:37 UTC+0
+> update at 2025-04-27 08:46:27 UTC+0
 - [FongMi/TV/release](https://github.com/FongMi/TV) (Updated: a5aac3ed7be1b977ac59602fa9c53c7e51127319)
-- [ze32/fm-tv/v3.6.7](https://github.com/ze32/fm-tv) (Updated: temac3ed7be1b977ac59602fa9c53c7e51127319)
+- [ze32/TV/v3.6.7](https://github.com/ze32/TV) (Updated: temp30d8f79b95bf1053e4d0426783a0de63313d)
+- [ze32/TV2023/v1.7.3](https://github.com/ze32/TV2023) (Updated: temp06f1d28119d8951d9cc469dc3127b4204ca4)
+- [ze32/TV2023/v1.8.2](https://github.com/ze32/TV2023) (Updated: temp06f1d28119d8951d9cc469dc3127b4204ca4)
+- [ze32/TV2024/v2.2.0](https://github.com/ze32/TV2024) (Updated: temp06f1d28119d8951d9cc469dc3127b4204ca4)
+- [ze32/okTV/v2.3.1](https://github.com/ze32/okTV) (Updated: temp06f1d28119d8951d9cc469dc3127b4204ca4)
+- [ze32/okTV/v2.4.4](https://github.com/ze32/okTV) (Updated: temp06f1d28119d8951d9cc469dc3127b4204ca4)
 - [q215613905/TVBoxOS/main](https://github.com/q215613905/TVBoxOS) (Updated: 9d38d66185622a2a406b248fdefbed02a7e5d06b)
 
 **2. 自定义爬虫**
@@ -55,4 +60,4 @@ https://yangxiaoge.github.io/yingshi
 
 # Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yangxiaoge/tvbox_cust&type=Date)](https://star-history.com/#yangxiaoge/tvbox_cust&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ze32/tvbox_cust&type=Date)](https://star-history.com/#ze32/tvbox_cust&Date)
