@@ -27,6 +27,16 @@ jobs:
             jdkVersion: 17
 
           - userName: ze32
+            repoName: TV
+            branchName: v3.3.7
+            jdkVersion: 17
+
+          - userName: ze32
+            repoName: TV
+            branchName: v3.7.5
+            jdkVersion: 17
+
+          - userName: ze32
             repoName: TV2023
             branchName: v1.7.3
             jdkVersion: 11
