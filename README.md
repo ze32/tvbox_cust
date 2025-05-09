@@ -30,14 +30,14 @@ https://yangxiaoge.github.io/yingshi
 
 **1. 三方TVBox编译（墙裂推荐[FongMi影视](https://github.com/FongMi/Release/tree/fongmi/apk/release)）**
 依赖的项目:
-> update at 2025-05-09 12:37:47 UTC+0
+> update at 2025-05-09 12:38:16 UTC+0
 - [FongMi/TV/release](https://github.com/FongMi/TV) (Updated: a5aac3ed7be1b977ac59602fa9c53c7e51127319)
 - [ze32/TV/v3.6.7](https://github.com/ze32/TV) (Updated: 51edad6d4ac05e7b4721cf5e100d30de11ec0139)
 - [ze32/TV/v3.3.7](https://github.com/ze32/TV) (Updated: 8e755642a3073dd232c93c0de9ecce061c2944ae)
 - [ze32/TV/v3.7.5](https://github.com/ze32/TV) (Updated: 4e3ec8fb8079c31f5c7b2e40995455d26280c4c8)
 - [ze32/TV2023/v1.7.3](https://github.com/ze32/TV2023) (Updated: 0fc6dbdb7334fd360777ab70c6457a403240c5c3)
 - [ze32/TV2023/v1.8.2](https://github.com/ze32/TV2023) (Updated: cd5e54d721df037986af27473c5e6c2b7dc75038)
-- [ze32/TV2024/v2.2.0](https://github.com/ze32/TV2024) (Updated: c8200f0e1103c0c7079a2fa1d725652cee93a058)
+- [ze32/TV2024/v2.2.0](https://github.com/ze32/TV2024) (Updated: ff90c2f6b08badbfb0ea0b205728bea668d5204a)
 - [ze32/okTV/v2.3.1](https://github.com/ze32/okTV) (Updated: 25014089073a6a0b90e18ac1b6dbc15a65dbcc67)
 - [ze32/okTV/v2.4.4](https://github.com/ze32/okTV) (Updated: cf9c341642e02b5e37e02b6e29e50a5109e6c312)
 - [q215613905/TVBoxOS/main](https://github.com/q215613905/TVBoxOS) (Updated: 9d38d66185622a2a406b248fdefbed02a7e5d06b)
