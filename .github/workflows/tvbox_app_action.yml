@@ -31,6 +31,35 @@ jobs:
             branchName: v3.3.7
             jdkVersion: 17
 
+          - userName: ze32
+            repoName: TV
+            branchName: v3.7.5
+            jdkVersion: 17
+
+          - userName: ze32
+            repoName: TV2023
+            branchName: v1.7.3
+            jdkVersion: 11
+
+          - userName: ze32
+            repoName: TV2023
+            branchName: v1.8.2
+            jdkVersion: 11
+
+          - userName: ze32
+            repoName: TV2024
+            branchName: v2.2.0
+            jdkVersion: 17
+
+          - userName: ze32
+            repoName: okTV
+            branchName: v2.3.1
+            jdkVersion: 17
+
+          - userName: ze32
+            repoName: okTV
+            branchName: v2.4.4
+            jdkVersion: 17
 
     steps:
       - name: Checkout
