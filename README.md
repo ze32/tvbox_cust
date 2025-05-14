@@ -25,14 +25,15 @@ https://yangxiaoge.github.io/yingshi
 # 进阶玩法
 # TVBox编译 脚本来自 [o0HalfLife0o](https://github.com/o0HalfLife0o/TVBoxOSC) [zyqfork](https://github.com/zyqfork/TVBoxOSC) 
 ![Build](https://shields.io/github/actions/workflow/status/yangxiaoge/tvbox_cust/tvbox_app_action.yml?branch=master&logo=github&label=Build)
-[![Download](https://img.shields.io/github/v/release/yangxiaoge/tvbox_cust?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/yangxiaoge/tvbox_cust/releases/latest) 
-[![Total](https://shields.io/github/downloads/yangxiaoge/tvbox_cust/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/yangxiaoge/tvbox_cust/releases)
+[![Download](https://img.shields.io/github/v/release/ze32/tvbox_cust?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/ze32/tvbox_cust/releases/latest) 
+[![Total](https://shields.io/github/downloads/ze32/tvbox_cust/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/ze32/tvbox_cust/releases)
 
 **1. 三方TVBox编译（墙裂推荐[FongMi影视](https://github.com/FongMi/Release/tree/fongmi/apk/release)）**
 依赖的项目:
-> update at 2025-04-24 20:30:37 UTC+0
+> update at 2025-05-09 12:38:49 UTC+0
 - [FongMi/TV/release](https://github.com/FongMi/TV) (Updated: a5aac3ed7be1b977ac59602fa9c53c7e51127319)
-- [ze32/fm-tv/v3.6.7](https://github.com/ze32/fm-tv) (Updated: temac3ed7be1b977ac59602fa9c53c7e51127319)
+- [ze32/TV/v3.6.7](https://github.com/ze32/TV) (Updated: t1edad6d4ac05e7b4721cf5e100d30de11ec0139)
+- [ze32/TV/v3.3.7](https://github.com/ze32/TV) (Updated: te755642a3073dd232c93c0de9ecce061c2944ae)
 - [q215613905/TVBoxOS/main](https://github.com/q215613905/TVBoxOS) (Updated: 9d38d66185622a2a406b248fdefbed02a7e5d06b)
 
 **2. 自定义爬虫**
@@ -55,4 +56,4 @@ https://yangxiaoge.github.io/yingshi
 
 # Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yangxiaoge/tvbox_cust&type=Date)](https://star-history.com/#yangxiaoge/tvbox_cust&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ze32/tvbox_cust&type=Date)](https://star-history.com/#ze32/tvbox_cust&Date)
