@@ -31,6 +31,11 @@ jobs:
             branchName: v3.3.7
             jdkVersion: 17
 
+          - userName: ze32
+            repoName: okTV
+            branchName: v2.5.8
+            jdkVersion: 17
+
 
     steps:
       - name: Checkout
