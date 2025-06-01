@@ -31,6 +31,21 @@ jobs:
             branchName: v3.3.7
             jdkVersion: 17
 
+          - userName: ze32
+            repoName: fmTV
+            branchName: v2.2.0
+            jdkVersion: 17
+
+          - userName: ze32
+            repoName: okTV-lite
+            branchName: v2.3.1
+            jdkVersion: 17
+
+          - userName: ze32
+            repoName: okTV
+            branchName: v2.5.8
+            jdkVersion: 17
+
 
     steps:
       - name: Checkout
