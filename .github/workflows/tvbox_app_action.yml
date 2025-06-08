@@ -21,16 +21,31 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - userName: FongMi
-            repoName: TV
-            branchName: release
-            # fongmi（大佬部分aar未提交，导致编译失败）
-            # branchName: fongmi
-            # ok大佬
+#          - userName: FongMi
+#            repoName: TV
+#            branchName: release
+#            # fongmi（大佬部分aar未提交，导致编译失败）
+#            # branchName: fongmi
+#            # ok大佬
+#            jdkVersion: 17
+
+          - userName: ze32
+            repoName: okTV
+            branchName: v2.5.8
             jdkVersion: 17
 
           - userName: ze32
             repoName: okTV
+            branchName: v2.4.4
+            jdkVersion: 17
+
+          - userName: ze32
+            repoName: okTV-lite
+            branchName: v2.3.1
+            jdkVersion: 17
+
+          - userName: ze32
+            repoName: okTV-lite
             branchName: v2.5.8
             jdkVersion: 17
 
